@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaranDevda
-- 👀 I’m interested in Football 
-- 🌱 I’m currently learning Coding Language 
+- 👀 I’m interested in Football and Sometimes Coding
+- 🌱 I’m currently learning PHP,Java,HTML
 - 📫 Reach me karandevda26014@gmail.com
 
 <!---
