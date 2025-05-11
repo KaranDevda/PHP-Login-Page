@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaranDevda
 - 👀 I’m interested in Football and Sometimes Coding
-- 🌱 I’m currently learning PHP,Java,HTML
+- 🌱 I’m currently learning Advanced Excel, Power BI and Artificial Intelligence 
 - 📫 Reach me karandevda26014@gmail.com
 
 <!---
