@@ -1,10 +1,10 @@
-# 🔐 PHP Login Page
+# PHP Login Page
 
 A simple, secure login system built using **PHP and MySQL**. This project demonstrates basic user authentication with clean code structure, form validation, and session handling.
 
 ---
 
-## 📌 Features
+## Features
 
 - Clean HTML/CSS login interface  
 - PHP backend for handling login logic  
@@ -16,12 +16,12 @@ A simple, secure login system built using **PHP and MySQL**. This project demons
 
 ---
 
-## 🧱 Technologies Used
+## Technologies Used
 
 - **Frontend:** HTML5, CSS3  
 - **Backend:** PHP 8+  
 - **Database:** MySQL  
-- **Server:** XAMPP / WAMP / MAMP (Localhost)
+- **Server:** XAMPP (Localhost)
 
 ---
 
