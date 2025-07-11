@@ -25,5 +25,3 @@ A simple, secure login system built using **PHP and MySQL**. This project demons
 
 ---
 
-## 🗂️ Project Structure
-
